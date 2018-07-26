@@ -10,13 +10,11 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
--   [Object - Glossary | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Object)
--   [Array - Glossary | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Array)
--   [function expression - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
--   [return - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
--   [Understand JavaScript Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them)
--   [JavaScript - Functions](http://www.quirksmode.org/js/function.html)
--   [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions)
+- [function expression - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
+- [return - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
+- [JavaScript - Functions](http://www.quirksmode.org/js/function.html)
+- [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions)
+- [Understand JavaScript Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them)
 
 ## Share Your Understanding
 
