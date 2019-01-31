@@ -1,4 +1,4 @@
-# JavaScript: Functions Ins and Outs Study
+# JavaScript: Functions Study
 
 Use your favorite search engine and the provided readings to research and
 respond to the following questions.
@@ -18,21 +18,44 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Share Your Understanding
 
-After reading all of the required readings, please tell us anything that you
-were confused about.
+1. What will the following code log?
+
+```js
+console.log(barFunc)
+barFunc();
+
+var barFunc = function() {
+   console.log('bar');
+};
+```
 
 ```md
 <!-- your answer here -->
 ```
 
-Are there any nagging questions related to functions that you have?
+2. Explain what the `return` keyword does in a Javascript function.
 
 ```md
 <!-- your answer here -->
 ```
 
-Thus far, how are you feeling about your progress as a developer? Please give an
-extensive answer.
+3. What's the difference between function declaration and function expression?
+
+```md
+<!-- your answer here -->
+```
+
+Give an example of each.
+
+```js
+// Function Expression Example:
+// your code here
+
+// Function Declaration Example:
+// your code here
+```
+
+4. What's the difference between arguments and parameters? Does order matter when using these?
 
 ```md
 <!-- your answer here -->
